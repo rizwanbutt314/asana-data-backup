@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# custome folders
+workspaces/
+projects/
+tasks/
+comments/
+attachments/
+
+# custom files
+.DS_Store
